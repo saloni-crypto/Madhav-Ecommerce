@@ -85,4 +85,4 @@ An interactive Power BI dashboard developed to analyze e-commerce sales performa
 - Add Forecasting and Trend Analysis
 - Enhance dashboard with drill-through pages and tooltips
 
----
+---[View Dashboard Screenshot](./DashBoard1.png)
