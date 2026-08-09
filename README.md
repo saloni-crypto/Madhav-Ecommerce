@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Sales Dashboard
-
+STart
 An interactive Power BI dashboard developed to analyze e-commerce sales performance across different states, categories, customers, payment methods, and time periods. The dashboard provides valuable business insights through dynamic visualizations, KPIs, and interactive filters, enabling effective data-driven decision-making.
 
 ---
